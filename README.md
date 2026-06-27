@@ -283,27 +283,19 @@ npm run build
 # Deploy dist/ folder
 ```
 
-### Backend (Heroku/Railway)
+### Backend (Render/Heroku)
 ```bash
 cd server
 # Set environment variables
 # Deploy to your preferred platform
 ```
 
-### Environment Variables
+### Environmental Variables
 ```env
 PORT=5001
 NODE_ENV=production
 OPENWEATHER_API_KEY=your_api_key
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## Future Enhancements
 
@@ -314,21 +306,9 @@ OPENWEATHER_API_KEY=your_api_key
 - [ ] Mobile application
 - [ ] Push notifications
 - [ ] Offline data sync
-- [ ] Multi-language support
 - [ ] Advanced analytics dashboard
 - [ ] Integration with government schemes
 
-## Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation
-
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
-**Built with ❤️ for the farmers of Assam** 
+**Built with 💙 for the farmers of Assam** 

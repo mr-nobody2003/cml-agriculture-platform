@@ -292,7 +292,7 @@ cd server
 
 ### Environment Variables
 ```env
-PORT=5000
+PORT=5001
 NODE_ENV=production
 OPENWEATHER_API_KEY=your_api_key
 ```

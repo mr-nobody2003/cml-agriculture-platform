@@ -1,4 +1,4 @@
-# CML AGIRCULTURE PLATFORM 🌾
+# 🌾 CML Agriculture Platform
 
 A comprehensive digital platform for farmers, NGOs, and agri-organizations in Assam that provides personalized weather alerts, data-driven recommendations, and centralized farmer data management.
 
